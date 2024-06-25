@@ -1,0 +1,12 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using TechnicalServicesAPI.Models;
+global using TechnicalServicesAPI.Models.Technician;
+global using TechnicalServicesAPI.Models.User;
+global using System.ComponentModel.DataAnnotations;
+global using Microsoft.AspNetCore.Mvc;
+global using TechnicalServicesAPI.DataBase;
+global using TechnicalServicesAPI.Dtos.User;
+global using TechnicalServicesAPI.Dtos;
+global using TechnicalServicesAPI.Classes;
+global using Microsoft.AspNetCore.Authorization;
+global using TechnicalServicesAPI.Dtos.Technician;

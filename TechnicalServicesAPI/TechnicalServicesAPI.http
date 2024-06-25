@@ -1,0 +1,6 @@
+@TechnicalServicesAPI_HostAddress = http://technicalservices.somee.com/
+
+GET {{TechnicalServicesAPI_HostAddress}}
+Accept: application/json
+
+###
